@@ -1,7 +1,6 @@
 QuickDBD Schema from 2/9/22
 
 
-
 Departments
 -
 dept_no varchar pk
@@ -25,21 +24,21 @@ to_date date
 
 Department_Employees
 -
-dept_no varchar pk fk - Departments.dept_no
+dept_no varchar pk fk -< Departments.dept_no
 dept_name varchar pk fk - Departments.dept_name
 from_date date
 to_date date
 
 Titles
 - 
-emp_no int pk fk - Employees.emp_no
+emp_no int pk fk -< Employees.emp_no
 title varchar
 from_date date
 to_date date
 
 Managers
 -
-dept_no varchar pk fk - Departments.dept_no
-emp_no int pk fk - Employees.emp_no
+dept_no varchar pk fk -< Departments.dept_no
+emp_no int pk fk -< Employees.emp_no
 from_date date
 to_date date
