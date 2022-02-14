@@ -10,9 +10,11 @@ The first part of the analysis found the number of retiring employees by their t
 ![Retiring Employees](..\Retiring_Titles.png)
 
 
+
+
 ## Summary
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+With over 90,000 employees eligible for retirement, a silver tsunami is coming. Pewlett Hackard will have to fill these roles pretty soon. 
 
 
-Are there enough qualified, retirement-ready employees in the departmetns to mentor the next generation of Pewlett Hackard employees?
+There are over 
