@@ -1,24 +1,26 @@
-Sales,Manager,1
-Sales,Senior Staff,10930
-Research,Manager,1
-Research,Senior Engineer,759
-Research,Senior Staff,3636
-Research,Technique Leader,112
-Quality Management,Manager,1
-Quality Management,Senior Engineer,3603
-Quality Management,Technique Leader,552
-Production,Manager,1
-Production,Senior Engineer,12767
-Production,Senior Staff,437
-Production,Technique Leader,1985
-Marketing,Senior Staff,4200
-Human Resources,Manager,1
-Human Resources,Senior Staff,3744
-Finance,Senior Staff,3696
-Development,Senior Engineer,14731
-Development,Senior Staff,376
-Development,Technique Leader,2252
-Customer Service,Manager,1
-Customer Service,Senior Engineer,611
-Customer Service,Senior Staff,4265
-Customer Service,Technique Leader,77
+Sales,Manager,1,,
+Sales,Senior Staff,10930,,10931
+Research,Manager,1,,
+Research,Senior Engineer,759,,
+Research,Senior Staff,3636,,
+Research,Technique Leader,112,,4508
+Quality Management,Manager,1,,
+Quality Management,Senior Engineer,3603,,
+Quality Management,Technique Leader,552,,4156
+Production,Manager,1,,
+Production,Senior Engineer,12767,,
+Production,Senior Staff,437,,
+Production,Technique Leader,1985,,15190
+Marketing,Senior Staff,4200,,4200
+Human Resources,Manager,1,,
+Human Resources,Senior Staff,3744,,3745
+Finance,Senior Staff,3696,,3696
+Development,Senior Engineer,14731,,
+Development,Senior Staff,376,,
+Development,Technique Leader,2252,,17359
+Customer Service,Manager,1,,
+Customer Service,Senior Engineer,611,,
+Customer Service,Senior Staff,4265,,
+Customer Service,Technique Leader,77,,4954
+,,,,
+,,68739,,
