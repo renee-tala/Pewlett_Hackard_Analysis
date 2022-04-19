@@ -16,6 +16,8 @@ In the second part of the analysis, we will create a table of employees, born be
     - employees.csv
     - salaries.csv
     - titles.csv
+    - unique_titles.csv
+    - unique_titles_dept.csv
 
 ## Results
 -Retiring Employees:
