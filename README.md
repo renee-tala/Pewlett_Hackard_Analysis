@@ -39,7 +39,7 @@ In the second part of the analysis, we will create a table of employees, born be
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-  - The image below is from rolls_to_fill.csv. It shows the first 15 rows out of 42. It shows the count of each title by department that needs to be filled. 
+  - The image below is from rolls_to_fill.csv. It shows the first 30 rows out of 42. It shows the count of each title by department that needs to be filled. 
   - There are a total of 147,942 roles to be filled. 
   - By department, the number of roles are:
     - Sales - 23,524
