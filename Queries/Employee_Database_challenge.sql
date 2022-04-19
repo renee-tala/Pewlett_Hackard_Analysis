@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 --Deliverable One
+=======
+>>>>>>> 83b9199ce5a6157cd32bbbbd237433a8a02d0af2
 SELECT e.emp_no,
 	e.first_name,
 	e.last_name,
@@ -31,6 +34,7 @@ FROM unique_titles
 GROUP BY title
 ORDER BY COUNT(title) DESC;
 
+<<<<<<< HEAD
 SELECT * FROM unique_titles;
 SELECT * FROM retiring_titles;
 
@@ -54,3 +58,6 @@ AND (de.to_date = '9999-01-01')
 ORDER BY emp_no;
 
 SELECT * FROM mentor_eligibility;
+=======
+SELECT * FROM retiring_titles;
+>>>>>>> 83b9199ce5a6157cd32bbbbd237433a8a02d0af2
