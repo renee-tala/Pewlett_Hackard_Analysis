@@ -21,14 +21,14 @@ In the second part of the analysis, we will create a table of employees, born be
 
 ## Results
 - Retiring Employees:
-  - The image below shows the number of employees retiring by job title. There are a total of 90398 employees retiring.
+  - The image below shows the number of employees retiring by job title. There are a total of 90,398 employees retiring.
   - Over half of the employees that are retiring are Senior Engineers and Senior Staff. 
   - This means that a huge amount of leadership roles will need to be filled. 
 
 ![retiringemp](img/retiring_titles.png)
 
 - Mentorship Eligibility:
-  - The image below shows the first ten employees who are eligible to be mentors. There are a total of 1708 employees eligible for the mentorship program. 
+  - The image below shows the first ten employees who are eligible to be mentors. There are a total of 1,708 employees eligible for the mentorship program. 
   - There are not enough employees to mentor people for the upcoming "silver tsunami" retirement wave.
   - Pewlett Hackard should consider expanding the eligibility criteria to those who are retiring, as well as those who have been in their position for over five years (or another measure for determining eligibility).
    
@@ -36,9 +36,8 @@ In the second part of the analysis, we will create a table of employees, born be
 
 
 ## Summary
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+- As mentioned earlier, the silver tsunami of retirees is nearing. 
   - The image below is from rolls_to_fill.csv. It shows the first 30 rows out of 42. It shows the count of each title by department that needs to be filled. 
   - There are a total of 147,942 roles to be filled. 
   - By department, the number of roles are:
@@ -55,9 +54,9 @@ Provide high-level responses to the following questions, then provide two additi
 
 ![rolls](img/rollstofill.png)
 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- Moving forward, we will use the data to determine if there are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
   - There are 68,739 qualified employees total. To figure this out, a table was created using the information from unique_titles.csv where only leadership roles were considered. 
-    - These roles are Senior Engineer, Senior Staff, Manager, and Technique Leader
+   - These roles are Senior Engineer, Senior Staff, Manager, and Technique Leader
   - In the image below you can see the number of employees who fit the criteria in each role by department. 
   - By department, the number of qualified employees are:
     - Sales - 10,931
