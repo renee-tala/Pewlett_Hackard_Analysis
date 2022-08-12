@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis
 ## Overview of the Analysis 
 
-The purpose of the analysis is to combine and examine multiple datasets on Pewlett Hackard employees. Using postgresSQL and pgAdmin, we will clean data, collect information, and 
+The purpose of the analysis is to combine and examine multiple datasets on Pewlett Hackard employees. Using postgresSQL and pgAdmin, we will clean data, collect information, and conduct two analyses. 
 
 In the first part of the analysis, we will create a table of the titles of all employees who were born Janurary 1st, 1952 to December 31st, 1955. This table is called Retirement Titles and can be found in the Data folder as a csv file. 
 
@@ -20,7 +20,7 @@ In the second part of the analysis, we will create a table of employees, born be
     - unique_titles_dept.csv
 
 ## Results
--Retiring Employees:
+- Retiring Employees:
   - The image below shows the number of employees retiring by job title. There are a total of 90398 employees retiring.
   - Over half of the employees that are retiring are Senior Engineers and Senior Staff. 
   - This means that a huge amount of leadership roles will need to be filled. 
