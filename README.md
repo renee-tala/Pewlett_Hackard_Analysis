@@ -50,7 +50,7 @@ In the second part of the analysis, we will create a table of employees, born be
     - Finance - 7,885
     - Development - 37,508
     - Customer Service - 10, 659
-  - From this list we can see that a majority of the roles to be filled are in Sales and Production. 
+  - From this list we can see that a majority of the roles to be filled are in Sales and Development. 
 
 ![rolls](img/rollstofill.png)
 
